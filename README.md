@@ -28,4 +28,4 @@ I work across the full data lifecycle: from BI reporting and predictive modeling
 
 ---
 
-📫 [LinkedIn](https://www.linkedin.com/in/fatima-ezzahra-bououdi-5b9615240) · [Portfolio](https://fatima-ezzahra-bououdi.vercel.app/) · fatimaezzahrabououdi@gmail.com
+📫 [LinkedIn](https://www.linkedin.com/in/fatima-ezzahra-bououdi-5b9615240) · fatimaezzahrabououdi@gmail.com
